@@ -10,3 +10,9 @@
 [KNN implementation.](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 
 [SVM implementation.](http://mblondel.org/publications/mblondel-icpr2014.pdf)
+
+[Reccurent network](ReccurentNetworks) - Генерация текста с помощью реккурентных сетей.
+
+[Expert system](lab-expert-system-topcanibus) - Экспертная система по рекомендации фильмов.
+
+[Neural network](lab-neural-networks-vision-kexibit) - Распознавание изображений с помощью нейронных сетей.
